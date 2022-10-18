@@ -1,0 +1,20 @@
+.photo2
+{
+    background-image: url(/pexels-hasan-albari-1229861.jpg);
+    width: 2000px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  background-attachment: fixed;
+  background-position: center;
+  font-size: 40px;
+  color: rgb(218, 208, 198);
+  padding-left: 70px;
+  padding-top: 80px;
+
+}
+.line
+{
+    color: beige;
+}
